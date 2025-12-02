@@ -1,4 +1,6 @@
 <?php
+ob_start(); // inicia buffer de salida
+
 $usuario_correcto = "admin";
 $pass_correcta    = "1234";
 
@@ -112,7 +114,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         <button class="btn-ingresar" type="submit">Ingresar</button>
 
-        <!-- YA REDIRIGE A RECUP.php -->
         <a href="recup.php" class="olvide">¿Olvidaste tu contraseña?</a>
     </form>
 
@@ -120,3 +121,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 </body>
 </html>
+
+<?php
+ob_end_flush(); // cierra buffer
