@@ -83,7 +83,7 @@
 
     <!-- Botones -->
     <a href="servicios.php" class="btn">Acceder a Servicios</a>
-    <a href="CITAS.php" class="btn">Ver Citas</a>
+    <a href="citas.php" class="btn">Ver Citas</a>
     <a href="index.php" class="btn btn-cerrar">Cerrar Sesión</a>
 
 </div>
