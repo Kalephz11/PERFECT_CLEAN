@@ -1,4 +1,4 @@
-u<?php
+<?php
 $usuario_correcto = "admin";
 $pass_correcta    = "1234";
 
