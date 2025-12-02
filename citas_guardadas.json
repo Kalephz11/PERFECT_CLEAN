@@ -1,0 +1,27 @@
+[
+    {
+        "servicio": "Limpieza",
+        "fecha": "2025-12-20",
+        "hora": "5:30"
+    },
+    {
+        "servicio": "Desinfecci\u00f3n",
+        "fecha": "2025-01-11",
+        "hora": "4:30"
+    },
+    {
+        "servicio": "Mantenimiento",
+        "fecha": "2025-01-12",
+        "hora": "5:00"
+    },
+    {
+        "servicio": "Limpieza",
+        "fecha": "2025-01-13",
+        "hora": "5:30"
+    },
+    {
+        "servicio": "Desinfecci\u00f3n",
+        "fecha": "2025-01-14",
+        "hora": "6:00"
+    }
+]
