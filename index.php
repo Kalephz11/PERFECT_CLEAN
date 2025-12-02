@@ -1,4 +1,4 @@
-<?php
+u<?php
 $usuario_correcto = "admin";
 $pass_correcta    = "1234";
 
@@ -113,7 +113,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <button class="btn-ingresar" type="submit">Ingresar</button>
 
         <!-- YA REDIRIGE A RECUP.php -->
-        <a href="RECUP.php" class="olvide">¿Olvidaste tu contraseña?</a>
+        <a href="recup.php" class="olvide">¿Olvidaste tu contraseña?</a>
     </form>
 
 </div>
